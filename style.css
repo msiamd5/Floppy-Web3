@@ -1,0 +1,26 @@
+body {
+  background: #0f172a;
+  color: #fff;
+  font-family: monospace;
+  text-align: center;
+}
+
+#app {
+  margin-top: 20px;
+}
+
+canvas {
+  margin-top: 20px;
+  border: 3px solid #fff;
+  background: #1e293b;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  border: none;
+  background: #22c55e;
+  color: #000;
+  font-weight: bold;
+}
